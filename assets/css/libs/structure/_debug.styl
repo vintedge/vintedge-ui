@@ -1,0 +1,56 @@
+//
+// Debug
+// --------------------------------------------------
+// http://www.johanbrook.com/articles/debugging-css-media-queries/
+
+
+// Variables
+// -------------------------
+
+
+
+debugMessage( message, color = rgba( 255 , 255 , 0 , 0.9 ) )
+	&::before
+		content: message
+		font-weight: bold
+		display: block
+		text-align: center
+		background: color
+		position: absolute
+		right: 0
+		left: 0
+		top: 0
+		z-index: 99
+		
+// X Small devices ( phones portrait )
+// -----------------------------------
+body
+	debugMessage( phones portrait )
+
+
+// Small devices ( phones landscape )
+// ----------------------------------
+@media (min-width: 480px)
+	body
+		debugMessage( phones landscape )
+
+
+// Small devices ( tablets portrait )
+// ----------------------------------
+@media (min-width: 768px)
+	body
+		debugMessage( tablets portrait )
+
+
+// Medium devices ( desktops )
+// ---------------------------
+@media (min-width: 992px)
+	body
+		debugMessage( desktops )
+
+
+// Large devices ( large desktops )
+// --------------------------------
+@media (min-width: 1200px)
+	body
+		debugMessage( large desktops )

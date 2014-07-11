@@ -1,0 +1,88 @@
+Vintedge-UI
+===========
+
+![Vintedge](http://vintedge.com/images/logo.gif "Vintedge")
+
+###Vintedge UI Template
+Automation for UI Developement.<br />
+<sup>Note: Still in development</sup>
+
+####HTML5 Boilerplate:
+The web’s most popular front-end template.<br />
+http://html5boilerplate.com/
+
+
+####Modernizr:
+A JavaScript library that detects HTML5 and CSS3 features in the user’s browser.<br />
+http://modernizr.com/
+
+
+####Twitter BootStrap:
+The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.<br />
+http://getbootstrap.com/
+
+
+####jQuery:
+A fast, small, and feature-rich JavaScript library.<br />
+http://jquery.com/
+
+
+####CSS Build using Stylus:
+Expressive, dynamic, robust CSS.<br />
+http://learnboost.github.io/stylus/
+
+######Why Stylus?
+http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320<br />
+http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412
+
+
+######nib
+CSS3 extensions for Stylus<br />
+http://visionmedia.github.io/nib/
+
+
+####Generate Style Guide
+Universal CSS styleguide generator for grunt. Easily integrate Styledocco or KSS styleguide generation into your development workflow. Default: StyleDocco Framework<br />
+https://www.npmjs.org/package/grunt-styleguide/
+
+
+####StyleDocco
+StyleDocco generates documentation and style guide documents from your stylesheets.<br />
+http://jacobrask.github.io/styledocco/
+
+
+####Compiled with Grunt:
+The JavaScript Task Runner.<br />
+http://gruntjs.com/
+
+
+####node.js:
+A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.<br />
+http://nodejs.org/
+
+
+####The Ultimate Website Launch Checklist:
+This is a comprehensive checklist of things to check pre-launch that includes things like content, style, validation, seo, and security points.<br />
+http://www.boxuk.com/upload/2014/02/Ultimate-Website-Launch-Checklist-5.0.pdf
+
+
+####25‐point Website Usability Checklist:
+The list is split into 4 roughly equal sections, (I) Accessibility, (II) Identity, (III) Navigation, and (IV) Content.<br />
+http://www.usereffect.com/download/checklist.pdf
+
+
+####The Ultimate SEO Checklist:
+Optimizing your web site for search engines should be an integral part of your web site project.<br />
+http://www.sitepoint.com/ultimate-seo-checklist/
+
+
+###TO DO
+
+####HandleBars
+Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.<br />
+http://handlebarsjs.com/
+
+
+####Sprite Generator
+https://www.npmjs.org/package/node-sprite-generator<br />
+https://www.npmjs.org/package/grunt-spritesmith

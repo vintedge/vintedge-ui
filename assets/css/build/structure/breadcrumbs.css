@@ -1,0 +1,28 @@
+/*
+Breadcrumbs
+===
+	
+	<nav>
+		<ul class="breadcrumbs clearfix">
+			<li class="first-child">
+				<a href="#" title="">Home</a>
+			</li>
+			<li>
+				<a href="#" title="">About Us</a>
+			</li>
+		</ul>
+	</nav>
+*/
+/* Variables */
+.breadcrumbs {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  line-height: 30px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.breadcrumbs li {
+  float: left;
+  margin: 0 5px;
+}
