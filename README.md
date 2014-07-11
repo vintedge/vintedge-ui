@@ -51,6 +51,11 @@ StyleDocco generates documentation and style guide documents from your styleshee
 http://jacobrask.github.io/styledocco/
 
 
+####Favicon Generator
+Generate the favicon pictures and HTML code that work on all major browsers and platforms
+http://realfavicongenerator.net/
+
+
 ####Compiled with Grunt:
 The JavaScript Task Runner.<br />
 http://gruntjs.com/
