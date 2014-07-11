@@ -5,7 +5,7 @@ Vintedge-UI
 
 ###Vintedge UI Template
 Automation for UI Developement.<br />
-<sup>Note: Still in development</sup>
+<sup>Note: This template is still in development.</sup>
 
 
 ####Markdown Guide:
