@@ -88,6 +88,11 @@ A Good User Interface has high conversion rates and is easy to use. In other wor
 http://www.goodui.org/
 
 
+####isobar Front-end Code Standards & Best Practices
+This document contains guidelines for web applications built by the Creative Technology (front end engineering) practice of Isobar. It is to be readily available to anyone who wishes to check the iterative progress of our best practices.<br />
+http://isobar-idev.github.io/code-standards/
+
+
 ####Google PageSpeed Tools
 Fast and optimized pages lead to higher visitor engagement, retention, and conversions. The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.<br />
 https://developers.google.com/speed/pagespeed/
@@ -101,6 +106,10 @@ https://developer.yahoo.com/performance/rules.html
 ####Visual Designers Checklist for the Web
 Web Design Checklist. These are merely suggestions for your workflow.<br />
 http://webdesignerschecklist.com/
+
+
+####Web Developer Checklist
+http://webdevchecklist.com/
 
 
 ####The Ultimate Website Launch Checklist:
