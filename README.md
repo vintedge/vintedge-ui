@@ -7,6 +7,13 @@ Vintedge-UI
 Automation for UI Developement.<br />
 <sup>Note: Still in development</sup>
 
+
+####Markdown Guide:
+Markdown is a lightweight markup language.<br />
+http://markdown-guide.readthedocs.org/en/latest/basics.html<br />
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 ####HTML5 Boilerplate:
 The web’s most popular front-end template.<br />
 http://html5boilerplate.com/
@@ -49,6 +56,11 @@ https://www.npmjs.org/package/grunt-styleguide/
 ####StyleDocco
 StyleDocco generates documentation and style guide documents from your stylesheets.<br />
 http://jacobrask.github.io/styledocco/
+
+
+######Sample Style Guide
+A sample style guide can be found @:
+http://10.10.10.10/_references/template/assets/css/build/styleguide/breadcrumbs.html
 
 
 ####Favicon Generator
