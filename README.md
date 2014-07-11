@@ -31,7 +31,7 @@ http://jquery.com/
 Expressive, dynamic, robust CSS.<br />
 http://learnboost.github.io/stylus/
 
-######Why Stylus?
+######Why Stylus? And Not SASS or LESS
 http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320<br />
 http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412
 
@@ -85,6 +85,8 @@ http://www.usereffect.com/download/checklist.pdf
 Optimizing your web site for search engines should be an integral part of your web site project.<br />
 http://www.sitepoint.com/ultimate-seo-checklist/
 
+
+**********
 
 ###TO DO
 
