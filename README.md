@@ -61,6 +61,11 @@ A platform built on Chrome's JavaScript runtime for easily building fast, scalab
 http://nodejs.org/
 
 
+####Visual Designers Checklist for the Web
+Web Design Checklist. These are merely suggestions for your workflow.<br />
+http://webdesignerschecklist.com/
+
+
 ####The Ultimate Website Launch Checklist:
 This is a comprehensive checklist of things to check pre-launch that includes things like content, style, validation, seo, and security points.<br />
 http://www.boxuk.com/upload/2014/02/Ultimate-Website-Launch-Checklist-5.0.pdf
