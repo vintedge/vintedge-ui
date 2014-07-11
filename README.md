@@ -83,6 +83,11 @@ A platform built on Chrome's JavaScript runtime for easily building fast, scalab
 http://nodejs.org/
 
 
+####Google PageSpeed Tools
+Fast and optimized pages lead to higher visitor engagement, retention, and conversions. The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.<br />
+https://developers.google.com/speed/pagespeed/
+
+
 ####Visual Designers Checklist for the Web
 Web Design Checklist. These are merely suggestions for your workflow.<br />
 http://webdesignerschecklist.com/
