@@ -15,12 +15,12 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 ####HTML5 Boilerplate:
-The web’s most popular front-end template.<br />
+The web's most popular front-end template.<br />
 http://html5boilerplate.com/
 
 
 ####Modernizr:
-A JavaScript library that detects HTML5 and CSS3 features in the user’s browser.<br />
+A JavaScript library that detects HTML5 and CSS3 features in the user's browser.<br />
 http://modernizr.com/
 
 
