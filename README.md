@@ -127,6 +127,17 @@ Optimizing your web site for search engines should be an integral part of your w
 http://www.sitepoint.com/ultimate-seo-checklist/
 
 
+####Screen Sizes
+http://screensiz.es/
+
+
+####Media Query Debugging Tool
+http://beta.screenqueri.es/<br />
+http://www.viewlike.us/<br />
+http://breakpointtester.com/
+
+
+
 **********
 
 ###TO DO
