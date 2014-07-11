@@ -88,6 +88,11 @@ Fast and optimized pages lead to higher visitor engagement, retention, and conve
 https://developers.google.com/speed/pagespeed/
 
 
+####Yahoo YUI
+Best Practices for Speeding Up Your Web Site<br />
+https://developer.yahoo.com/performance/rules.html
+
+
 ####Visual Designers Checklist for the Web
 Web Design Checklist. These are merely suggestions for your workflow.<br />
 http://webdesignerschecklist.com/
