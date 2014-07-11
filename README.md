@@ -59,12 +59,17 @@ http://jacobrask.github.io/styledocco/
 
 
 ######Sample Style Guide
-A sample style guide can be found @:
+A sample style guide can be found @:<br />
 http://10.10.10.10/_references/template/assets/css/build/styleguide/breadcrumbs.html
 
 
+####Imagemin
+Minify PNG and JPEG images.<br />
+https://github.com/gruntjs/grunt-contrib-imagemin
+
+
 ####Favicon Generator
-Generate the favicon pictures and HTML code that work on all major browsers and platforms
+Generate the favicon pictures and HTML code that work on all major browsers and platforms.<br />
 http://realfavicongenerator.net/
 
 
