@@ -26,7 +26,15 @@ http://modernizr.com/
 
 ####Twitter BootStrap:
 The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.<br />
-http://getbootstrap.com/
+http://getbootstrap.com/<br />
+
+
+Bootstrap is not magic. It does not cure cancer. Only Chuck Norris’ tears do that. You are not going to drop Bootstrap onto your site and magically have a cross platform application that works on every device and is future proof. In fact, you are going to have to do a fair bit of extra work on top of what Bootstrap gives you out of the box to be fully responsive.
+
+Also, keep in mind that Responsive Design is really just the beginning when it comes to building web experiences on mobile devices. Today’s phones and tablets are capable of so much more than just laying out content with a font big enough for you to read it. We are still trying to figure out how to simply display the content for these devices, but they are poised to do so much more if we can leverage all of the power they afford to users above and beyond what a desktop was ever capable of.
+
+
+<sup>http://modernweb.com/2013/09/16/break-the-wrist-and-walk-away-responsive-design-and-bootstrap-3/</sup>
 
 
 ####jQuery:
