@@ -73,6 +73,11 @@ Generate the favicon pictures and HTML code that work on all major browsers and 
 http://realfavicongenerator.net/
 
 
+####Device Detection with WURFL.js
+URFL.js is a JavaScript file that provides information about the device that is accesing your page. Whether it is a desktop browser, a tablet, a mobile phone, a smart TV, game console or someone with his wristwatch.<br />
+http://wurfl.io/
+
+
 ####Compiled with Grunt:
 The JavaScript Task Runner.<br />
 http://gruntjs.com/
