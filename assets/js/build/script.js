@@ -8,11 +8,7 @@ jQuery Ready
 Functions
 	
 
-Tools:
-======
-Compressor
-	- http://www.refresh-sf.com/yui/
-	- http://javascriptcompressor.com/
+
 */
 
 

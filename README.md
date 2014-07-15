@@ -80,6 +80,11 @@ Minify PNG and JPEG images.<br />
 https://github.com/gruntjs/grunt-contrib-imagemin
 
 
+####Sprite Generator
+Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.<br />
+https://www.npmjs.org/package/grunt-spritesmith
+
+
 ####Favicon Generator
 Generate the favicon pictures and HTML code that work on all major browsers and platforms.<br />
 http://realfavicongenerator.net/
@@ -139,7 +144,7 @@ This is a comprehensive checklist of things to check pre-launch that includes th
 http://www.boxuk.com/upload/2014/02/Ultimate-Website-Launch-Checklist-5.0.pdf
 
 
-####25‐point Website Usability Checklist:
+####25-point Website Usability Checklist:
 The list is split into 4 roughly equal sections, (I) Accessibility, (II) Identity, (III) Navigation, and (IV) Content.<br />
 http://www.usereffect.com/download/checklist.pdf
 
@@ -171,9 +176,8 @@ http://www.awwwards.com/<br /><br />
 
 ####HandleBars
 Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.<br />
-http://handlebarsjs.com/
+http://handlebarsjs.com/<br />
+https://www.npmjs.org/package/grunt-compile-handlebars
 
 
-####Sprite Generator
-https://www.npmjs.org/package/node-sprite-generator<br />
-https://www.npmjs.org/package/grunt-spritesmith
+

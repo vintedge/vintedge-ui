@@ -15,6 +15,7 @@
     "grunt-contrib-uglify": "^0.4.0",
     "grunt-contrib-watch": "~0.4.0",
     "grunt-styleguide": "^0.2.15",
+	"grunt-spritesmith": "~2.1.1",
     "load-grunt-tasks": "^0.2.1"
   },
   "dependencies": {
