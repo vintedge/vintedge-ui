@@ -5,7 +5,7 @@ module.exports = {
 	multiple_files: {
 		expand: true,
 		flatten: true,
-		src: 'assets/css/build/*.css',
-		dest: 'assets/css/build/prefixed/'
+		src: 'assets/css/dist/*.css',
+		dest: 'assets/css/dist/prefixed/'
 	}
 }

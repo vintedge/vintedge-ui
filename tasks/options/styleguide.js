@@ -3,11 +3,11 @@ module.exports = {
 		options: {
 			name: 'Vintedge UI Style Guide',
 			template: {
-				include: ['assets/css/libs/bootstrap/bootstrap.min.css']
+				include: ['assets/css/src/bootstrap/bootstrap.min.css']
 			}
 		},
 		files: {
-			'assets/css/build/styleguide': 'assets/css/build/structure/breadcrumbs.css'
+			'assets/css/dist/styleguide': 'assets/css/dist/structure/breadcrumbs.css'
 		}
 	}
 }

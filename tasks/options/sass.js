@@ -5,7 +5,7 @@ module.exports = {
 			style: 'expanded'
 		},
 		files: {
-			'assets/css/build/style.css': 'assets/css/style.scss'
+			'assets/css/dist/style.css': 'assets/css/style.scss'
 		}
 	}
 }

@@ -4,11 +4,11 @@ module.exports = {
 			compress: false
 		},
 		files: {
-			'assets/css/build/style.css': [
-				'assets/css/libs/*/*.styl',
-				'assets/css/libs/*.styl'
+			'assets/css/dist/style.css': [
+				'assets/css/src/*/*.styl',
+				'assets/css/src/*.styl'
 			],
-			'assets/css/build/structure/breadcrumbs.css': 'assets/css/libs/structure/_breadcrumbs.styl'
+			'assets/css/dist/structure/breadcrumbs.css': 'assets/css/src/structure/_breadcrumbs.styl'
 		}
 	}
 }
