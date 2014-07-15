@@ -24,7 +24,7 @@ A JavaScript library that detects HTML5 and CSS3 features in the user's browser.
 http://modernizr.com/
 
 
-####Twitter BootStrap:
+####BootStrap 3:
 The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.<br />
 http://getbootstrap.com/<br />
 
@@ -35,6 +35,10 @@ Also, keep in mind that Responsive Design is really just the beginning when it c
 
 
 <sup>http://modernweb.com/2013/09/16/break-the-wrist-and-walk-away-responsive-design-and-bootstrap-3/</sup>
+
+
+#####BootStrap 3 Media Query Breakpoints
+http://scotch.io/quick-tips/css3-quick-tips/default-sizes-for-twitter-bootstraps-media-queries
 
 
 ####jQuery:
