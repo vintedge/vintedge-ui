@@ -180,4 +180,9 @@ http://handlebarsjs.com/<br />
 https://www.npmjs.org/package/grunt-compile-handlebars
 
 
+####jade
+http://jade-lang.com/
 
+
+####Transparency
+http://leonidas.github.io/transparency/
