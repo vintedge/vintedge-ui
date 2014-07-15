@@ -7,6 +7,17 @@ Vintedge-UI
 Automation for UI Developement.<br />
 <sup>Note: This template is still in development.</sup>
 
+#####What are the task added?
+* concat
+* uglify
+* sprite
+* stylus
+* styleguide
+* responsive_images
+* imagemin
+* autoprefixer
+* cssmin
+
 
 ####Markdown Guide:
 Markdown is a lightweight markup language.<br />
