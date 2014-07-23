@@ -52,6 +52,10 @@ Also, keep in mind that Responsive Design is really just the beginning when it c
 http://scotch.io/quick-tips/css3-quick-tips/default-sizes-for-twitter-bootstraps-media-queries
 
 
+####Bootstrap IE7 (Beta)
+https://github.com/coliff/bootstrap-ie7
+
+
 ####jQuery:
 A fast, small, and feature-rich JavaScript library.<br />
 http://jquery.com/
