@@ -66,9 +66,9 @@ Expressive, dynamic, robust CSS.<br />
 http://learnboost.github.io/stylus/
 
 ######Why Stylus? And Not SASS or LESS
-https://github.com/LearnBoost/stylus/blob/master/docs/compare.md<br />
 http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320<br />
-http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412
+http://webdesign.tutsplus.com/articles/why-i-choose-stylus-and-you-should-too--webdesign-18412<br />
+https://github.com/LearnBoost/stylus/blob/master/docs/compare.md
 
 ######nib
 CSS3 extensions for Stylus<br />
