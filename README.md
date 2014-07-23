@@ -131,6 +131,12 @@ This document contains guidelines for web applications built by the Creative Tec
 http://isobar-idev.github.io/code-standards/
 
 
+####Google Web Fundamentals
+Best practices for modern web development<br />
+https://developers.google.com/web/fundamentals/
+
+
+
 ####Google PageSpeed Tools
 Fast and optimized pages lead to higher visitor engagement, retention, and conversions. The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.<br />
 https://developers.google.com/speed/pagespeed/
