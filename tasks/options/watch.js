@@ -3,7 +3,7 @@ module.exports = {
 		livereload: true,
 	},
 	scripts: {
-		files: ['assets/js/*.js'],
+		files: ['assets/js/src/vendor/*.js', 'assets/js/src/*.js'],
 		tasks: ['jshint', 'concat', 'uglify', 'usebanner'],
 		options: {
 			spawn: false,
