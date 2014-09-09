@@ -17,14 +17,14 @@ module.exports = {
 		}
 	},
 	images: {
-		files: ['assets/images/**/*.{png,jpg,gif}', 'assets/images/*.{png,jpg,gif}'],
+		files: ['assets/img/**/*.{png,jpg,gif}', 'assets/img/*.{png,jpg,gif}'],
 		tasks: ['imagemin'],
 		options: {
 			spawn: false,
 		}
 	},
 	//svg: {
-		//files: ['assets/images/**/*.{svg}', 'assets/images/*.{png,jpg,gif}'],
+		//files: ['assets/img/**/*.{svg}', 'assets/img/*.{png,jpg,gif}'],
 		//tasks: ['imagemin'],
 		//options: {
 			//spawn: false,
