@@ -3,14 +3,14 @@ module.exports = {
 		livereload: true,
 	},
 	scripts: {
-		files: ['assets/js/src/vendor/*.js', 'assets/js/src/*.js'],
+		files: ['assets/js/src/plugins/*.js', 'assets/js/src/*.js'],
 		tasks: ['jshint', 'concat', 'uglify', 'usebanner'],
 		options: {
 			spawn: false,
 		}
 	},
 	css: {
-		files: ['assets/css/src/*/*.styl', 'assets/css/src/*.styl'],
+		files: ['assets/css/src/plugins/*.css' , 'assets/css/src/*/*.styl', 'assets/css/src/*.styl'],
 		tasks: ['stylus', 'styleguide', 'cssmin', 'usebanner'],// 'autoprefixer'
 		options: {
 			spawn: false,
@@ -23,6 +23,13 @@ module.exports = {
 			spawn: false,
 		}
 	},
+	//svg: {
+		//files: ['assets/images/**/*.{svg}', 'assets/images/*.{png,jpg,gif}'],
+		//tasks: ['imagemin'],
+		//options: {
+			//spawn: false,
+		//}
+	//},
 	html:{
 		files: ['./**/*.html'],
 		tasks: [],
