@@ -1,31 +1,4 @@
-/*
-Breadcrumbs
-===
-	
-	<nav>
-		<ul class="breadcrumbs clearfix">
-			<li class="first-child">
-				<a href="#" title="">Home</a>
-			</li>
-			<li>
-				<a href="#" title="">About Us</a>
-			</li>
-		</ul>
-	</nav>
-*/
-/* Variables */
-.breadcrumbs {
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
-  line-height: 30px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.breadcrumbs li {
-  float: left;
-  margin: 0 5px;
-}
+
 
 
 body::before {
@@ -103,26 +76,5 @@ body::before {
 
 
 
-/*
-Stylus variables are information about icon's compiled state, stored under its original file name
-
-.icon-home {
-  width: $icon_home_width;
-}
-
-The large array-like variables contain all information about a single icon
-$icon_home = x y offset_x offset_y width height total_width total_height image_path;
-*/
-/*
-The provided mixins are intended to be used with the array-like variables
-
-.icon-home {
-  spriteWidth($icon_home)
-}
-
-.icon-email {
-  sprite($icon_email)
-}
-*/
 
 

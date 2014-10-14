@@ -1,0 +1,9 @@
+/*!
+ * Vintedge
+ * v0.0.1
+ * 14-10-2014
+ * http://vintedge.com/
+ */
+
+
+body::before{content:phones portrait;font-weight:700;display:block;text-align:center;background:rgba(255,255,0,.9);position:absolute;right:0;left:0;top:0;z-index:99}@media (min-width:480px){body::before{content:phones landscape;font-weight:700;display:block;text-align:center;background:rgba(255,255,0,.9);position:absolute;right:0;left:0;top:0;z-index:99}}@media (min-width:768px){body::before{content:tablets portrait;font-weight:700;display:block;text-align:center;background:rgba(255,255,0,.9);position:absolute;right:0;left:0;top:0;z-index:99}}@media (min-width:992px){body::before{content:desktops;font-weight:700;display:block;text-align:center;background:rgba(255,255,0,.9);position:absolute;right:0;left:0;top:0;z-index:99}}@media (min-width:1200px){body::before{content:large desktops;font-weight:700;display:block;text-align:center;background:rgba(255,255,0,.9);position:absolute;right:0;left:0;top:0;z-index:99}}

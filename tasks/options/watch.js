@@ -3,38 +3,30 @@ module.exports = {
 		livereload: true,
 	},
 	scripts: {
-		files: ['assets/js/src/plugins/*.js', 'assets/js/src/*.js'],
-		tasks: ['jshint', 'concat', 'uglify', 'usebanner'],
+		files: ['assets/js/src/script.js'],
+		tasks: ['jshint'],
 		options: {
 			spawn: false,
 		}
 	},
 	css: {
-		files: ['assets/css/src/plugins/*.css' , 'assets/css/src/*/*.styl', 'assets/css/src/*.styl'],
-		tasks: ['stylus', 'styleguide', 'cssmin', 'usebanner'],// 'autoprefixer'
+		files: ['assets/css/src/structure/*.styl', 'assets/css/src/plugins/*.css' , 'assets/css/src/style.styl'],
+		tasks: ['stylus'],
 		options: {
 			spawn: false,
 		}
 	},
 	images: {
-		files: ['assets/img/**/*.{png,jpg,gif}', 'assets/img/*.{png,jpg,gif}'],
+		files: ['assets/img/src/*.{png,jpg,gif}'],
 		tasks: ['imagemin'],
 		options: {
 			spawn: false,
 		}
 	},
-	//svg: {
-		//files: ['assets/img/**/*.{svg}', 'assets/img/*.{png,jpg,gif}'],
-		//tasks: ['imagemin'],
-		//options: {
-			//spawn: false,
-		//}
-	//},
-	html:{
-		files: ['./**/*.html'],
-		tasks: [],
+	html: {
+		files: ['*.html','*.php'],
 		options: {
-			spawn: false
+			spawn: false,
 		}
 	}
 }

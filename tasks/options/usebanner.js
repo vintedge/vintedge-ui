@@ -10,7 +10,7 @@ module.exports = {
 				' */\n\n'
 		},
 		files: {
-			src: ['assets/css/dist/minified/style.css']
+			src: ['assets/css/dist/style.min.css']
 		}
 	},
 	js: {
